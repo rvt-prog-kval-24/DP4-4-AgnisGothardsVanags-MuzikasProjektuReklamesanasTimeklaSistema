@@ -21,7 +21,7 @@
 10.1. Lietotājam pirms pasūtīšanas ir jāaizpilda pasūtījuma forma; 
 10.2. Jānodrošina iespēja samaksāt par precēm, izmantojot bankas karti. 
 
-      11.Administratoram jānodrošina: 
+11.Administratoram jānodrošina: 
 
 11.1. Iespēja pārvaldīt lietotāja kontus; 
 11.2. Iespēja pievienot/dzēst jaunas preces veikalā; 
