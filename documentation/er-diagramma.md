@@ -1,4 +1,4 @@
-Sistēmas ER-modelis sastāv no 4 entitijām (skat. 2. attēlu), kas nodrošina pamat- informācijas uzglabāšanu un apstrādi. Tie ir: 
+Sistēmas ER-modelis sastāv no 4 entitijām (skat. 2. attēlu), kas nodrošina pamatinformācijas uzglabāšanu un apstrādi. Tie ir: 
 
 - lietotājs; 
 - prece; 
