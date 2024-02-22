@@ -9,4 +9,4 @@ Sistēmas ER-modelis sastāv no 4 entitijām (skat. 2. attēlu), kas nodrošina 
 - vairākas preces var vienlaicīgi pievienot vienam grozam; 
 - vairākas preces var vienlaicīgi iekļaut vairākos pasūtījumos;
 
-- ![ER-diagramma](C:\Users\agnis\OneDrive\Music project promotion-ER.drawio.png)
+- ![ER-diagramma](Music project promotion-ER.drawio.png)
